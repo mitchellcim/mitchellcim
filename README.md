@@ -1,16 +1,17 @@
-## Hi there 👋
+# mitchellcim
 
-<!--
-**mitchellcim/mitchellcim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation Engineering Student / Rust Enthusiast
 
-Here are some ideas to get you started:
+Exploring the intersection of hardware, software,
+and systems programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+
+- Rust & Systems Programming
+- Embedded Systems & IoT
+- Backend Development
+- Open Source
+
+---
+
+*Building reliable software, one line at a time.*
